@@ -1,6 +1,6 @@
 # How to run this web app
   1. To execute npm i
-  2. To excute npm run dev
+  2. To execute npm run dev
 
 
 # React + TypeScript + Vite
